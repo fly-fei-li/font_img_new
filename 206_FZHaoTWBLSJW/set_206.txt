@@ -1,0 +1,406 @@
+
+汉字评价_206
+
+
+示例图片\<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/example.png alt="Example Image">
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/01_AGIS_400_FZHaoTWBLSJW_货.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/02_LF_400_FZHaoTWBLSJW_喁.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/03_AGIS_400_FZHaoTWBLSJW_辶.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/04_AGIS_400_FZHaoTWBLSJW_梓.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/05_VQ_500_FZHaoTWBLSJW_畅.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/06_DG_400_FZHaoTWBLSJW_噌.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/07_CF_400_FZHaoTWBLSJW_菥.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/08_LF_400_FZHaoTWBLSJW_讲.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/09_MX_400_FZHaoTWBLSJW_粼.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/10_AGIS_400_FZHaoTWBLSJW_锝.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/11_MX_400_FZHaoTWBLSJW_蝙.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/12_LF_400_FZHaoTWBLSJW_邗.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/13_CG_400_FZHaoTWBLSJW_丨.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/14_LF_400_FZHaoTWBLSJW_申.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/15_MX_400_FZHaoTWBLSJW_浑.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/16_CF_400_FZHaoTWBLSJW_裉.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/17_MX_400_FZHaoTWBLSJW_呤.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/18_MX_400_FZHaoTWBLSJW_螨.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/19_MX_400_FZHaoTWBLSJW_後.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/20_AGIS_400_FZHaoTWBLSJW_旺.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/21_DG_400_FZHaoTWBLSJW_邾.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/22_CF_400_FZHaoTWBLSJW_移.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/23_CF_400_FZHaoTWBLSJW_飓.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/24_MX_400_FZHaoTWBLSJW_蹴.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/25_CF_400_FZHaoTWBLSJW_蕖.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/26_CF_400_FZHaoTWBLSJW_舞.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/27_VQ_500_FZHaoTWBLSJW_涸.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/28_CF_400_FZHaoTWBLSJW_笼.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/29_CF_400_FZHaoTWBLSJW_蝤.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/30_AGIS_400_FZHaoTWBLSJW_家.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/31_LF_400_FZHaoTWBLSJW_馕.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/32_AGIS_400_FZHaoTWBLSJW_诺.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/33_CF_400_FZHaoTWBLSJW_凵.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/34_AGIS_400_FZHaoTWBLSJW_涉.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/35_CF_400_FZHaoTWBLSJW_垠.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/36_AGIS_400_FZHaoTWBLSJW_订.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/37_MX_400_FZHaoTWBLSJW_懂.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/38_CF_400_FZHaoTWBLSJW_罅.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/39_CG_400_FZHaoTWBLSJW_涤.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/40_CG_400_FZHaoTWBLSJW_阪.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/41_VQ_500_FZHaoTWBLSJW_稷.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/42_VQ_500_FZHaoTWBLSJW_吐.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/43_MX_400_FZHaoTWBLSJW_邾.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/44_VQ_500_FZHaoTWBLSJW_候.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/45_LF_400_FZHaoTWBLSJW_虬.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/46_CG_400_FZHaoTWBLSJW_钧.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/47_DG_400_FZHaoTWBLSJW_忌.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/48_LF_400_FZHaoTWBLSJW_企.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/49_CF_400_FZHaoTWBLSJW_坨.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/50_VQ_500_FZHaoTWBLSJW_禚.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/51_CG_400_FZHaoTWBLSJW_赇.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/52_DG_400_FZHaoTWBLSJW_邬.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/53_VQ_500_FZHaoTWBLSJW_婿.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/54_VQ_500_FZHaoTWBLSJW_嚏.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/55_MX_400_FZHaoTWBLSJW_设.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/56_VQ_500_FZHaoTWBLSJW_鹁.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/57_CG_400_FZHaoTWBLSJW_偌.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/58_MX_400_FZHaoTWBLSJW_像.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/59_CG_400_FZHaoTWBLSJW_蕖.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/60_AGIS_400_FZHaoTWBLSJW_剿.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/61_AGIS_400_FZHaoTWBLSJW_答.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/62_MX_400_FZHaoTWBLSJW_市.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/63_AGIS_400_FZHaoTWBLSJW_时.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/64_LF_400_FZHaoTWBLSJW_耙.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/65_LF_400_FZHaoTWBLSJW_蛎.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/66_CF_400_FZHaoTWBLSJW_鳏.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/67_AGIS_400_FZHaoTWBLSJW_葭.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/68_MX_400_FZHaoTWBLSJW_豺.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/69_LF_400_FZHaoTWBLSJW_旆.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/70_CG_400_FZHaoTWBLSJW_螃.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/71_AGIS_400_FZHaoTWBLSJW_周.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/72_CF_400_FZHaoTWBLSJW_瘪.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/73_DG_400_FZHaoTWBLSJW_萁.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/74_VQ_500_FZHaoTWBLSJW_胧.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/75_DG_400_FZHaoTWBLSJW_驯.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/76_DG_400_FZHaoTWBLSJW_问.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/77_CG_400_FZHaoTWBLSJW_芎.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/78_VQ_500_FZHaoTWBLSJW_德.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/79_CF_400_FZHaoTWBLSJW_隳.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
+请您对生成汉字进行评分（竖线左边为目标图像，右边生成图像）[矩阵量表题](<img src=https://cdn.jsdelivr.net/gh/fly-fei-li/font_img_new@main/206_FZHaoTWBLSJW/80_CG_400_FZHaoTWBLSJW_砾.png alt="Font Image">)
+1~5
+与目标图像风格相似程度
+与目标图像整体相似程度
+
